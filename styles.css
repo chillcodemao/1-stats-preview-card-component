@@ -68,7 +68,6 @@ body {
 .card-img {
 	display: flex;
 	background-color: hsl(278, 83%, 32%);
-	max-width: 50%;
 }
 
 img {
