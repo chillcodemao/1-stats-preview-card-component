@@ -132,9 +132,9 @@ p {
 		justify-content: center;
 	}
 
-.card-img {
-	max-width: 100%;
-}
+	.card-img {
+		max-width: 100%;
+	}
 
 	img {
 		max-width: 375px;
