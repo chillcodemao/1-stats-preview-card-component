@@ -1,0 +1,51 @@
+:root {
+    font-size: 62.5%;
+}
+
+html {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: hsla(233, 47%, 7%, 1);
+}
+
+.card-brief {
+    background-color: #1B1937;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.8rem;
+    line-height: 3.2rem;
+    color: #FFFFFF;
+}
+
+h1 span {
+    color: #AB5CDB;
+}
+
+.card-info p {
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    color: #FFFFFF;
+    opacity: 0.75;
+}
+
+.stat-numbers {
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.9rem;
+    color: #FFFFFF;
+}
+
+.stat-description {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.1rem;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
